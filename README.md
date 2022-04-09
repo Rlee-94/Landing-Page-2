@@ -33,7 +33,7 @@ Creating a second landing page as a project using BootStrap.
 * Gained ability to use BootStrap docs and search for exisiting classes that BootStrap uses
 * Improved **code structure** and **code readability**.
 * Improved **clean code** writing.
-🔗 **Used CSS Tricks for background image structure:** [here](https://css-tricks.com/perfect-full-page-background-image/) 
+* Used CSS Tricks for background image structure:[here](https://css-tricks.com/perfect-full-page-background-image/) 
 
 
 ## Author

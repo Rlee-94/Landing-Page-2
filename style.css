@@ -46,3 +46,17 @@ height: 15rem;
   background-color: #F05F44;
   border-color: #F05F44;
 }
+
+.btn-outline-success {
+    color: white;
+    background-color: #F05F44;
+    background-image: none;
+    border-color: #F05F44;
+    margin-left: 1rem;
+}
+
+.btn-outline-success:hover {
+    background-color: #ee4b08;
+    border-color: #ee4b08;
+    border-width: 3px;
+}
