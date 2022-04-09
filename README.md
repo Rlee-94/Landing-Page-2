@@ -2,7 +2,7 @@
 
 Creating a second landing page as a project using BootStrap. 
 
-🔗 **Live preview:** [here]()
+🔗 **Live preview:** [here](https://rlee-94.github.io/Landing-Page-2/)
 
 ## Built with
 * HTML
